@@ -1,5 +1,5 @@
 # GDP-Analysis
-# The overall goal of this project is to help the CMs focus on areas that will foster economic development for their respective states.
+The overall goal of this project is to help the CMs focus on areas that will foster economic development for their respective states.
 
 The data is sourced from https://data.gov.in/, an Open Government Data (OGD) platform of India. The data for GDP analysis of the Indian states is divided into two parts:
 
